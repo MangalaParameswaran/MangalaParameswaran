@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mangala</h1>
+[<h1 align="center">Hi 👋, I'm Mangala</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangalaparameswaran&label=Profile%20views&color=0e75b6&style=flat" alt="mangalaparameswaran" /> </p>
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mangalaparameswaran&show_icons=true&locale=en" alt="mangalaparameswaran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangalaparameswaran&" alt="mangalaparameswaran" /></p>
+](https://www.guvi.in/code-kata-main?concept=Input/Output)https://www.guvi.in/code-kata-main?concept=Input/Output
