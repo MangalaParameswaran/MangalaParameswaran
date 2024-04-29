@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **FSD (MERN)**
+- 🌱 Complete my **Full Stack Developer** course in **GUVI IIT Madras**
 
-- 💬 Ask me about **JS**
+- 💬 Ask me about **HTML5, CSS, Javascript, Bootstrap, Node JS, Express JS, MongoDB, Mongoose, MYSQL**
 
 - 📫 How to reach me **mangala214128pa@gmail.com**
 
