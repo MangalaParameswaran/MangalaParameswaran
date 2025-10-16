@@ -9,7 +9,7 @@
 
 - 🌱 Completed my **Full Stack Developer** course in **GUVI IIT Madras**, Currently working as an Software Engineer  in Ideal Tech labs.
 
-- 💬 Ask me about **HTML5, CSS, Javascript, TypeScript, Bootstrap, Node JS, Express JS, Nest-js, MongoDB, Mongoose, Postgress, Microservice, Sequelize**
+- 💬 Ask me about **HTML5, CSS, Javascript, TypeScript,React, Angular, Bootstrap, Node JS, Express JS, Nest-js, MongoDB, Mongoose, Postgress, Microservice, Sequelize**
 
 - 📫 How to reach me **mangala214128pa@gmail.com**
 
