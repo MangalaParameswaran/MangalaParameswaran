@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Completed my **Full Stack Developer** course in **GUVI IIT Madras**
+- 🌱 Completed my **Full Stack Developer** course in **GUVI IIT Madras**, Currently working as an Software Engineer  in Ideal Tech labs.
 
-- 💬 Ask me about **HTML5, CSS, Javascript, Bootstrap, Node JS, Express JS, MongoDB, Mongoose, MYSQL**
+- 💬 Ask me about **HTML5, CSS, Javascript, TypeScript, Bootstrap, Node JS, Express JS, Nest-js, MongoDB, Mongoose, Postgress, Microservice, Sequelize**
 
 - 📫 How to reach me **mangala214128pa@gmail.com**
 
